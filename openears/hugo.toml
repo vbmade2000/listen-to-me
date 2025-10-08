@@ -1,0 +1,15 @@
+baseURL = 'https://openears.in/'
+languageCode = 'en-us'
+title = "Openears"
+theme = "beautifulhugo"
+
+[Params]
+  subtitle = "A quiet space to talk and be heard."
+  mainSections = ["post"]
+  showRelatedPosts = false
+  readingTime = false
+  useHLJS = false
+  socialShare = false
+
+[Author]
+  name = "Malhar Vora"
